@@ -1,6 +1,6 @@
-Python solutions to [leetcode] problems.
+Python solutions to [leetcode](https://leetcode.com) problems. Neither the fastest nor the cleverest solutions around.
 
-## Solved problems
+### Solved problems
 
 |#|Problem|Solution|Difficulty|
 |-|-------|--------|----------|
