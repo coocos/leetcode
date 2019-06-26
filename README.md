@@ -10,3 +10,4 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |21|[Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Solution](./21_merge_two_sorted_lists.py)|Easy|
 |35|[Search insert position](https://leetcode.com/problems/search-insert-position)|[Solution](./35_search_insert_position.py)|Easy|
 |37|[Sudoku solver](https://leetcode.com/problems/sudoku-solver)|[Solution](./37_sudoku_solver.py)|Hard|
+|102|[Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Solution](./102_binary_tree_level_order_traversal.py)|Medium|
