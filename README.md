@@ -15,3 +15,4 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |102|[Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Solution](./102_binary_tree_level_order_traversal.py)|Medium|
 |104|[Maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Solution](./104_maximum_depth_of_binary_tree.py)|Easy|
 |111|[Minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Solution](./111_minimum_depth_of_binary_tree.py)|Easy|
+|112|[Path sum](https://leetcode.com/problems/path-sum)|[Solution](./112_path_sum.py)|Easy|
