@@ -20,3 +20,4 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |111|[Minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Solution](./111_minimum_depth_of_binary_tree.py)|Easy|
 |112|[Path sum](https://leetcode.com/problems/path-sum)|[Solution](./112_path_sum.py)|Easy|
 |113|[Path sum II](https://leetcode.com/problems/path-sum-ii)|[Solution](./113_path_sum_ii.py)|Medium|
+|242|[Valid anagram](https://leetcode.com/problems/valid-anagram)|[Solution](./242_valid_anagram.py)|Easy|
