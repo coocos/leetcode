@@ -1,7 +1,6 @@
 Python solutions to [leetcode](https://leetcode.com) problems. Neither the fastest nor the cleverest solutions around.
 
-### Solved problems
-
+### Solved problems 
 |#|Problem|Solution|Difficulty|
 |-|-------|--------|----------|
 |1|[Two sum](https://leetcode.com/problems/two-sum/)|[Solution](./1_two_sum.py)|Easy|
@@ -23,4 +22,5 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |112|[Path sum](https://leetcode.com/problems/path-sum)|[Solution](./112_path_sum.py)|Easy|
 |113|[Path sum II](https://leetcode.com/problems/path-sum-ii)|[Solution](./113_path_sum_ii.py)|Medium|
 |235|[Lowest common ancestor of a binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Solution](./235_lowest_common_ancestor_of_a_binary_search_tree.py)|Easy|
+|236|[Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|[Solution](./236_lowest_common_ancestor_of_a_binary_tree.py)|Medium|
 |242|[Valid anagram](https://leetcode.com/problems/valid-anagram)|[Solution](./242_valid_anagram.py)|Easy|
