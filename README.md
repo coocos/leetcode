@@ -21,6 +21,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |111|[Minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Solution](./111_minimum_depth_of_binary_tree.py)|Easy|
 |112|[Path sum](https://leetcode.com/problems/path-sum)|[Solution](./112_path_sum.py)|Easy|
 |113|[Path sum II](https://leetcode.com/problems/path-sum-ii)|[Solution](./113_path_sum_ii.py)|Medium|
+|203|[Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements)|[Solution](./203_remove_linked_list_elements.py)|Easy|
 |217|[Contains duplicate](https://leetcode.com/problems/contains-duplicate)|[Solution](./217_contains_duplicate.py)|Easy|
 |226|[Invert binary tree](https://leetcode.com/problems/invert-binary-tree)|[Solution](./226_invert_binary_tree.py)|Easy|
 |235|[Lowest common ancestor of a binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Solution](./235_lowest_common_ancestor_of_a_binary_search_tree.py)|Easy|
