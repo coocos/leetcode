@@ -35,3 +35,4 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |235|[Lowest common ancestor of a binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Solution](./235_lowest_common_ancestor_of_a_binary_search_tree.py)|Easy|
 |236|[Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|[Solution](./236_lowest_common_ancestor_of_a_binary_tree.py)|Medium|
 |242|[Valid anagram](https://leetcode.com/problems/valid-anagram)|[Solution](./242_valid_anagram.py)|Easy|
+|771|[Jewels and stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](./771_jewels_and_stones.py)|Easy|
