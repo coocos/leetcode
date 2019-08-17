@@ -37,5 +37,6 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |242|[Valid anagram](https://leetcode.com/problems/valid-anagram)|[Solution](./242_valid_anagram.py)|Easy|
 |654|[Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree)|[Solution](./654_maximum_binary_tree.py)|Medium|
 |771|[Jewels and stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](./771_jewels_and_stones.py)|Easy|
+|814|[Binary tree pruning](https://leetcode.com/problems/binary-tree-pruning)|[Solution](./814_binary_tree_pruning.py)|Medium|
 |938|[Range sum of BST](https://leetcode.com/problems/range-sum-of-bst)|[Solution](./938_range_sum_of_bst.py)|Easy|
 |1038|[Binary search tree to greater sum tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[Solution](./1038_binary_search_tree_to_greater_sum_tree.py)|Medium|
