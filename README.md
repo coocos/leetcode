@@ -35,6 +35,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |235|[Lowest common ancestor of a binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Solution](./235_lowest_common_ancestor_of_a_binary_search_tree.py)|Easy|
 |236|[Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|[Solution](./236_lowest_common_ancestor_of_a_binary_tree.py)|Medium|
 |242|[Valid anagram](https://leetcode.com/problems/valid-anagram)|[Solution](./242_valid_anagram.py)|Easy|
+|559|[Maximum depth of n-ary tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|[Solution](./559_maximum_depth_of_n_ary_tree.py)|Easy|
 |590|[N-ary tree postorder traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|[Solution](./590_n_ary_tree_postorder_traversal.py)|Easy|
 |654|[Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree)|[Solution](./654_maximum_binary_tree.py)|Medium|
 |700|[Search in a binary search tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Solution](./700_search_in_a_binary_search_tree)|Easy|
