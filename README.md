@@ -41,6 +41,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |700|[Search in a binary search tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Solution](./700_search_in_a_binary_search_tree)|Easy|
 |771|[Jewels and stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](./771_jewels_and_stones.py)|Easy|
 |814|[Binary tree pruning](https://leetcode.com/problems/binary-tree-pruning)|[Solution](./814_binary_tree_pruning.py)|Medium|
+|872|[Leaf-similar trees](https://leetcode.com/problems/leaf-similar-trees)|[Solution](./872_leaf_similar_trees.py)|Easy|
 |938|[Range sum of BST](https://leetcode.com/problems/range-sum-of-bst)|[Solution](./938_range_sum_of_bst.py)|Easy|
 |965|[Univalued binary tree](https://leetcode.com/problems/univalued-binary-tree)|[Solution](./965_univalued_binary_tree.py)|Easy|
 |1038|[Binary search tree to greater sum tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[Solution](./1038_binary_search_tree_to_greater_sum_tree.py)|Medium|
