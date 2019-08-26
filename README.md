@@ -43,6 +43,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |654|[Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree)|[Solution](./654_maximum_binary_tree.py)|Medium|
 |700|[Search in a binary search tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Solution](./700_search_in_a_binary_search_tree)|Easy|
 |771|[Jewels and stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](./771_jewels_and_stones.py)|Easy|
+|784|[Letter case permutation](https://leetcode.com/problems/letter-case-permutation)|[Solution](./784_letter_case_permutation.py)|Easy|
 |814|[Binary tree pruning](https://leetcode.com/problems/binary-tree-pruning)|[Solution](./814_binary_tree_pruning.py)|Medium|
 |872|[Leaf-similar trees](https://leetcode.com/problems/leaf-similar-trees)|[Solution](./872_leaf_similar_trees.py)|Easy|
 |884|[Uncommon words from two sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Solution](./884_uncommon_words_from_two_sentences.py)|Easy|
