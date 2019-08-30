@@ -13,6 +13,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |39|[Combination sum](https://leetcode.com/problems/combination-sum)|[Solution](./39_combination_sum.py)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Solution](./46_permutations.py)|Medium|
 |62|[Unique paths](https://leetcode.com/problems/unique-paths)|[Solution](./62_unique_paths.py)|Medium|
+|63|[Unique paths II](https://leetcode.com/problems/unique-paths-ii)|[Solution](./63_unique_paths_ii.py)|Medium|
 |98|[Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree)|[Solution](./98_validate_binary_search_tree.py)|Medium|
 |100|[Same tree](https://leetcode.com/problems/same-tree)|[Solution](./100_same_tree.py)|Easy|
 |101|[Symmetric tree](https://leetcode.com/problems/symmetric-tree)|[Solution](./101_symmetric_tree.py)|Easy|

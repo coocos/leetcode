@@ -33,7 +33,7 @@ class Solution:
                 # to its left and above it
                 paths[i][j] = paths[i - 1][j] + paths[i][j - 1]
 
-        return paths[n - 1][m - 1]
+        return paths[-1][-1]
 
 
 class TestSolution(unittest.TestCase):
