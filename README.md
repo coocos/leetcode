@@ -26,6 +26,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |111|[Minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Solution](./111_minimum_depth_of_binary_tree.py)|Easy|
 |112|[Path sum](https://leetcode.com/problems/path-sum)|[Solution](./112_path_sum.py)|Easy|
 |113|[Path sum II](https://leetcode.com/problems/path-sum-ii)|[Solution](./113_path_sum_ii.py)|Medium|
+|144|[Binary tree preorder traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Solution](./144_binary_tree_preorder_traversal.py)|Medium|
 |169|[Majority element](https://leetcode.com/problems/majority-element)|[Solution](./169_majority_element.py)|Easy|
 |182|[Duplicate emails](https://leetcode.com/problems/duplicate-emails)|[Solution](./182_duplicate_emails.sql)|Easy|
 |183|[Customers who never order](https://leetcode.com/problems/customers-who-never-order)|[Solution](./183_customers_who_never_order.sql)|Easy|
