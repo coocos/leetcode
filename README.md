@@ -11,6 +11,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |35|[Search insert position](https://leetcode.com/problems/search-insert-position)|[Solution](./35_search_insert_position.py)|Easy|
 |37|[Sudoku solver](https://leetcode.com/problems/sudoku-solver)|[Solution](./37_sudoku_solver.py)|Hard|
 |39|[Combination sum](https://leetcode.com/problems/combination-sum)|[Solution](./39_combination_sum.py)|Medium|
+|42|[Trapping rain water](https://leetcode.com/problems/trapping-rain-water)|[Solution](./42_trapping_rain_water.py)|Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Solution](./46_permutations.py)|Medium|
 |62|[Unique paths](https://leetcode.com/problems/unique-paths)|[Solution](./62_unique_paths.py)|Medium|
 |63|[Unique paths II](https://leetcode.com/problems/unique-paths-ii)|[Solution](./63_unique_paths_ii.py)|Medium|
