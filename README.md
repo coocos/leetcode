@@ -27,6 +27,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |111|[Minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Solution](./111_minimum_depth_of_binary_tree.py)|Easy|
 |112|[Path sum](https://leetcode.com/problems/path-sum)|[Solution](./112_path_sum.py)|Easy|
 |113|[Path sum II](https://leetcode.com/problems/path-sum-ii)|[Solution](./113_path_sum_ii.py)|Medium|
+|118|[Pascal's triangle](https://leetcode.com/problems/pascals-triangle)|[Solution](./118_pascals_triangle.py)|Easy|
 |144|[Binary tree preorder traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Solution](./144_binary_tree_preorder_traversal.py)|Medium|
 |169|[Majority element](https://leetcode.com/problems/majority-element)|[Solution](./169_majority_element.py)|Easy|
 |173|[Binary search tree iterator](https://leetcode.com/problems/binary-search-tree-iterator)|[Solution](./173_binary_search_tree_iterator.py)|Medium|
