@@ -45,6 +45,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |297|[Serialize and deserialize binary tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|[Solution](./297_serialize_and_deserialize_binary_tree.py)|Hard|
 |429|[N-ary tree level order traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|[Solution](./429_n_ary_tree_level_order_traversal.py)|Easy|
 |463|[Island perimeter](https://leetcode.com/problems/island-perimeter)|[Solution](./463_island_perimeter.py)|Easy|
+|538|[Convert BST to greater tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|[Solution](./538_convert_bst_to_greater_tree.py)|Easy|
 |559|[Maximum depth of n-ary tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|[Solution](./559_maximum_depth_of_n_ary_tree.py)|Easy|
 |590|[N-ary tree postorder traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|[Solution](./590_n_ary_tree_postorder_traversal.py)|Easy|
 |637|[Average of levels in binary tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|[Solution](./637_average_of_levels_in_binary_tree.py)|Easy|
