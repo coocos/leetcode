@@ -55,6 +55,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |637|[Average of levels in binary tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|[Solution](./637_average_of_levels_in_binary_tree.py)|Easy|
 |654|[Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree)|[Solution](./654_maximum_binary_tree.py)|Medium|
 |657|[Robot return to origin](https://leetcode.com/problems/robot-return-to-origin)|[Solution](./657_robot_return_to_origin.py)|Easy|
+|695|[Max area of island](https://leetcode.com/problems/max-area-of-island)|[Solution](./695_max_area_of_island.py)|Medium|
 |700|[Search in a binary search tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Solution](./700_search_in_a_binary_search_tree)|Easy|
 |746|[Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Solution](./746_min_cost_climbing_stairs.py)|Easy|
 |771|[Jewels and stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](./771_jewels_and_stones.py)|Easy|
