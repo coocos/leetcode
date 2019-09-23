@@ -68,3 +68,4 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |965|[Univalued binary tree](https://leetcode.com/problems/univalued-binary-tree)|[Solution](./965_univalued_binary_tree.py)|Easy|
 |993|[Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree)|[Solution](./993_cousins_in_binary_tree.py)|Easy|
 |1038|[Binary search tree to greater sum tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[Solution](./1038_binary_search_tree_to_greater_sum_tree.py)|Medium|
+|1161|[Maximum level sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)|[Solution](./1161_maximum_level_sum_of_a_binary_tree.py)|Medium|
