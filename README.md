@@ -65,6 +65,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |876|[Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list)|[Solution](./876_middle_of_the_linked_list.py)|Easy|
 |884|[Uncommon words from two sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Solution](./884_uncommon_words_from_two_sentences.py)|Easy|
 |938|[Range sum of BST](https://leetcode.com/problems/range-sum-of-bst)|[Solution](./938_range_sum_of_bst.py)|Easy|
+|951|[Flip equivalent binary trees](https://leetcode.com/problems/flip-equivalent-binary-trees)|[Solution](./951_flip_equivalent_binary_trees.py)|Medium|
 |965|[Univalued binary tree](https://leetcode.com/problems/univalued-binary-tree)|[Solution](./965_univalued_binary_tree.py)|Easy|
 |993|[Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree)|[Solution](./993_cousins_in_binary_tree.py)|Easy|
 |1038|[Binary search tree to greater sum tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[Solution](./1038_binary_search_tree_to_greater_sum_tree.py)|Medium|
