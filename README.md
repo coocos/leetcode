@@ -53,6 +53,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |538|[Convert BST to greater tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|[Solution](./538_convert_bst_to_greater_tree.py)|Easy|
 |559|[Maximum depth of n-ary tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|[Solution](./559_maximum_depth_of_n_ary_tree.py)|Easy|
 |590|[N-ary tree postorder traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|[Solution](./590_n_ary_tree_postorder_traversal.py)|Easy|
+|617|[Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees)|[Solution](./617_merge_two_binary_trees.py)|Easy|
 |637|[Average of levels in binary tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|[Solution](./637_average_of_levels_in_binary_tree.py)|Easy|
 |654|[Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree)|[Solution](./654_maximum_binary_tree.py)|Medium|
 |657|[Robot return to origin](https://leetcode.com/problems/robot-return-to-origin)|[Solution](./657_robot_return_to_origin.py)|Easy|
