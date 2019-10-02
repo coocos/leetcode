@@ -22,13 +22,13 @@ class Solution:
             starts the string, e.g. calling this with '[2[abc]]' would
             return the index of the last bracket: 7.
             """
-            stack = []
+            count = 0
             for i, s in enumerate(string):
                 if s == '[':
-                    stack.append(i)
+                    count += 1
                 elif s == ']':
-                    stack.pop()
-                if not stack:
+                    count -= 1
+                if not count:
                     return i
 
         if not string:
