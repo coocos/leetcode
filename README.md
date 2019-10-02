@@ -46,6 +46,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |242|[Valid anagram](https://leetcode.com/problems/valid-anagram)|[Solution](./242_valid_anagram.py)|Easy|
 |297|[Serialize and deserialize binary tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|[Solution](./297_serialize_and_deserialize_binary_tree.py)|Hard|
 |383|[Ransom note](https://leetcode.com/problems/ransom-note)|[Solution](./383_ransom_note.py)|Easy|
+|394|[Decode string](https://leetcode.com/problems/decode-string)|[Solution](./394_decode_string.py)|Medium|
 |404|[Sum of left leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Solution](./404_sum_of_left_leaves.py)|Easy|
 |429|[N-ary tree level order traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|[Solution](./429_n_ary_tree_level_order_traversal.py)|Easy|
 |463|[Island perimeter](https://leetcode.com/problems/island-perimeter)|[Solution](./463_island_perimeter.py)|Easy|
