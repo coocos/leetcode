@@ -40,6 +40,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |208|[Implement trie (prefix tree)](https://leetcode.com/problems/implement-trie-prefix-tree)|[Solution](./208_implement_trie_prefix_tree.py)|Medium|
 |217|[Contains duplicate](https://leetcode.com/problems/contains-duplicate)|[Solution](./217_contains_duplicate.py)|Easy|
 |226|[Invert binary tree](https://leetcode.com/problems/invert-binary-tree)|[Solution](./226_invert_binary_tree.py)|Easy|
+|230|[Kth smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[Solution](./230_kth_smallest_element_in_a_bst.py)|Medium|
 |234|[Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list)|[Solution](./234_palindrome_linked_list.py)|Easy|
 |235|[Lowest common ancestor of a binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Solution](./235_lowest_common_ancestor_of_a_binary_search_tree.py)|Easy|
 |236|[Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|[Solution](./236_lowest_common_ancestor_of_a_binary_tree.py)|Medium|
