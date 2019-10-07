@@ -70,6 +70,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |771|[Jewels and stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](./771_jewels_and_stones.py)|Easy|
 |784|[Letter case permutation](https://leetcode.com/problems/letter-case-permutation)|[Solution](./784_letter_case_permutation.py)|Easy|
 |814|[Binary tree pruning](https://leetcode.com/problems/binary-tree-pruning)|[Solution](./814_binary_tree_pruning.py)|Medium|
+|856|[Score of parentheses](https://leetcode.com/problems/score-of-parentheses)|[Solution](./856_score_of_parentheses.py)|Medium|
 |872|[Leaf-similar trees](https://leetcode.com/problems/leaf-similar-trees)|[Solution](./872_leaf_similar_trees.py)|Easy|
 |876|[Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list)|[Solution](./876_middle_of_the_linked_list.py)|Easy|
 |884|[Uncommon words from two sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Solution](./884_uncommon_words_from_two_sentences.py)|Easy|
