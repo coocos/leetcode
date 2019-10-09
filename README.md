@@ -84,3 +84,4 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1137|[N-th Tribonacci number](https://leetcode.com/problems/n-th-tribonacci-number)|[Solution](./1137_n_th_tribonacci_number.py)|Easy|
 |1161|[Maximum level sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)|[Solution](./1161_maximum_level_sum_of_a_binary_tree.py)|Medium|
 |1184|[Distance between bus stops](https://leetcode.com/problems/distance-between-bus-stops)|[Solution](./1184_distance_between_bus_stops.py)|Easy|
+|1207|[Unique number of occurrences](https://leetcode.com/problems/unique-number-of-occurrences)|[Solution](./1207_unique_number_of_occurrences.py)|Easy|
