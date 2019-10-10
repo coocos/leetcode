@@ -70,6 +70,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |746|[Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Solution](./746_min_cost_climbing_stairs.py)|Easy|
 |771|[Jewels and stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](./771_jewels_and_stones.py)|Easy|
 |784|[Letter case permutation](https://leetcode.com/problems/letter-case-permutation)|[Solution](./784_letter_case_permutation.py)|Easy|
+|802|[Find eventual safe states](https://leetcode.com/problems/find-eventual-safe-states)|[Solution](./802_find_eventual_safe_states.py)|Medium|
 |814|[Binary tree pruning](https://leetcode.com/problems/binary-tree-pruning)|[Solution](./814_binary_tree_pruning.py)|Medium|
 |856|[Score of parentheses](https://leetcode.com/problems/score-of-parentheses)|[Solution](./856_score_of_parentheses.py)|Medium|
 |872|[Leaf-similar trees](https://leetcode.com/problems/leaf-similar-trees)|[Solution](./872_leaf_similar_trees.py)|Easy|
