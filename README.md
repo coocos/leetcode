@@ -82,6 +82,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |938|[Range sum of BST](https://leetcode.com/problems/range-sum-of-bst)|[Solution](./938_range_sum_of_bst.py)|Easy|
 |951|[Flip equivalent binary trees](https://leetcode.com/problems/flip-equivalent-binary-trees)|[Solution](./951_flip_equivalent_binary_trees.py)|Medium|
 |965|[Univalued binary tree](https://leetcode.com/problems/univalued-binary-tree)|[Solution](./965_univalued_binary_tree.py)|Easy|
+|973|[K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin)|[Solution](./973_k_closest_points_to_origin.py)|Medium|
 |988|[Smallest string starting from leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)|[Solution](./988_smallest_string_starting_from_leaf.py)|Medium|
 |993|[Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree)|[Solution](./993_cousins_in_binary_tree.py)|Easy|
 |1022|[Sum of root to leaf binary numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|[Solution](./1022_sum_of_root_to_leaf_binary_numbers.py)|Easy|
