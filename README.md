@@ -93,3 +93,4 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1161|[Maximum level sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)|[Solution](./1161_maximum_level_sum_of_a_binary_tree.py)|Medium|
 |1184|[Distance between bus stops](https://leetcode.com/problems/distance-between-bus-stops)|[Solution](./1184_distance_between_bus_stops.py)|Easy|
 |1207|[Unique number of occurrences](https://leetcode.com/problems/unique-number-of-occurrences)|[Solution](./1207_unique_number_of_occurrences.py)|Easy|
+|1219|[Path with maximum gold](https://leetcode.com/problems/path-with-maximum-gold)|[Solution](./1219_path_with_maximum_gold.py)|Medium|
