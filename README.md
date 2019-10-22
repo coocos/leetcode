@@ -81,6 +81,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |872|[Leaf-similar trees](https://leetcode.com/problems/leaf-similar-trees)|[Solution](./872_leaf_similar_trees.py)|Easy|
 |876|[Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list)|[Solution](./876_middle_of_the_linked_list.py)|Easy|
 |884|[Uncommon words from two sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Solution](./884_uncommon_words_from_two_sentences.py)|Easy|
+|921|[Minimum add to make parentheses valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[Solution](./921_minimum_add_to_make_parentheses_valid.py)|Medium|
 |938|[Range sum of BST](https://leetcode.com/problems/range-sum-of-bst)|[Solution](./938_range_sum_of_bst.py)|Easy|
 |951|[Flip equivalent binary trees](https://leetcode.com/problems/flip-equivalent-binary-trees)|[Solution](./951_flip_equivalent_binary_trees.py)|Medium|
 |965|[Univalued binary tree](https://leetcode.com/problems/univalued-binary-tree)|[Solution](./965_univalued_binary_tree.py)|Easy|
