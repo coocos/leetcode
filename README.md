@@ -88,6 +88,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |973|[K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin)|[Solution](./973_k_closest_points_to_origin.py)|Medium|
 |988|[Smallest string starting from leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)|[Solution](./988_smallest_string_starting_from_leaf.py)|Medium|
 |993|[Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree)|[Solution](./993_cousins_in_binary_tree.py)|Easy|
+|1021|[Remove outermost parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|[Solution](./1021_remove_outermost_parentheses.py)|Easy|
 |1022|[Sum of root to leaf binary numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|[Solution](./1022_sum_of_root_to_leaf_binary_numbers.py)|Easy|
 |1038|[Binary search tree to greater sum tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[Solution](./1038_binary_search_tree_to_greater_sum_tree.py)|Medium|
 |1110|[Delete nodes and return forest](https://leetcode.com/problems/delete-nodes-and-return-forest)|[Solution](./1110_delete_nodes_and_return_forest.py)|Medium|
