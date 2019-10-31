@@ -14,6 +14,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |39|[Combination sum](https://leetcode.com/problems/combination-sum)|[Solution](./39_combination_sum.py)|Medium|
 |42|[Trapping rain water](https://leetcode.com/problems/trapping-rain-water)|[Solution](./42_trapping_rain_water.py)|Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Solution](./46_permutations.py)|Medium|
+|53|[Maximum subarray](https://leetcode.com/problems/maximum-subarray)|[Solution](./53_maximum_subarray.py)|Easy|
 |62|[Unique paths](https://leetcode.com/problems/unique-paths)|[Solution](./62_unique_paths.py)|Medium|
 |63|[Unique paths II](https://leetcode.com/problems/unique-paths-ii)|[Solution](./63_unique_paths_ii.py)|Medium|
 |64|[Minimum path sum](https://leetcode.com/problems/minimum-path-sum)|[Solution](./64_minimum_path_sum.py)|Medium|
