@@ -36,8 +36,6 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |144|[Binary tree preorder traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Solution](./144_binary_tree_preorder_traversal.py)|Medium|
 |169|[Majority element](https://leetcode.com/problems/majority-element)|[Solution](./169_majority_element.py)|Easy|
 |173|[Binary search tree iterator](https://leetcode.com/problems/binary-search-tree-iterator)|[Solution](./173_binary_search_tree_iterator.py)|Medium|
-|182|[Duplicate emails](https://leetcode.com/problems/duplicate-emails)|[Solution](./182_duplicate_emails.sql)|Easy|
-|183|[Customers who never order](https://leetcode.com/problems/customers-who-never-order)|[Solution](./183_customers_who_never_order.sql)|Easy|
 |199|[Binary tree right side view](https://leetcode.com/problems/binary-tree-right-side-view)|[Solution](./199_binary_tree_right_side_view.py)|Medium|
 |200|[Number of islands](https://leetcode.com/problems/number-of-islands)|[Solution](./200_number_of_islands.py)|Medium|
 |203|[Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements)|[Solution](./203_remove_linked_list_elements.py)|Easy|
