@@ -97,6 +97,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1184|[Distance between bus stops](https://leetcode.com/problems/distance-between-bus-stops)|[Solution](./leetcode/1184_distance_between_bus_stops.py)|Easy|
 |1207|[Unique number of occurrences](https://leetcode.com/problems/unique-number-of-occurrences)|[Solution](./leetcode/1207_unique_number_of_occurrences.py)|Easy|
 |1219|[Path with maximum gold](https://leetcode.com/problems/path-with-maximum-gold)|[Solution](./leetcode/1219_path_with_maximum_gold.py)|Medium|
+|1261|[Find elements in a contaminated binary tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree.py)|[Solution](./leetcode/1261_find_elements_in_a_contaminated_binary_tree.py)|Medium|
 |1302|[Deepest leaves sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Solution](./leetcode/1302_deepest_leaves_sum.py)|Medium|
 |1313|[Decompress run-length encoded list](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Solution](./leetcode/1313_decompress_run_length_encoded_list.py)|Easy|
 |1342|[Number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](./leetcode/1342_number_of_steps_to_reduce_number_to_zero.py)|Easy|
