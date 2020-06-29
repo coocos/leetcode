@@ -101,6 +101,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1302|[Deepest leaves sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Solution](./leetcode/1302_deepest_leaves_sum.py)|Medium|
 |1313|[Decompress run-length encoded list](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Solution](./leetcode/1313_decompress_run_length_encoded_list.py)|Easy|
 |1315|[Sum of nodes with even-valued grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Solution](./leetcode/1315_sum_of_nodes_with_even_valued_grandparent.py)|Medium|
+|1325|[Delete leaves with a given value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Solution](./leetcode/1325_delete_leaves_with_a_given_value.py)|Medium|
 |1342|[Number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](./leetcode/1342_number_of_steps_to_reduce_number_to_zero.py)|Easy|
 |1436|[Destination city](https://leetcode.com/problems/destination-city/)|[Solution](./leetcode/1436_destination_city.py)|Easy|
 |1480|[Destination city](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](./leetcode/1480_running_sum_of_1d_array.py)|Easy|
