@@ -92,6 +92,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1022|[Sum of root to leaf binary numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|[Solution](./leetcode/1022_sum_of_root_to_leaf_binary_numbers.py)|Easy|
 |1038|[Binary search tree to greater sum tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[Solution](./leetcode/1038_binary_search_tree_to_greater_sum_tree.py)|Medium|
 |1046|[Last stone weight](https://leetcode.com/problems/last-stone-weight/)|[Solution](./leetcode/1046_last_stone_weight.py)|Easy|
+|1047|[Remove all adjacent duplicates in string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Solution](./leetcode/1047_remove_all_adjacent_duplicates_in_string.py)|Easy|
 |1110|[Delete nodes and return forest](https://leetcode.com/problems/delete-nodes-and-return-forest)|[Solution](./leetcode/1110_delete_nodes_and_return_forest.py)|Medium|
 |1137|[N-th Tribonacci number](https://leetcode.com/problems/n-th-tribonacci-number)|[Solution](./leetcode/1137_n_th_tribonacci_number.py)|Easy|
 |1161|[Maximum level sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)|[Solution](./leetcode/1161_maximum_level_sum_of_a_binary_tree.py)|Medium|
