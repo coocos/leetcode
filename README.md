@@ -84,6 +84,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |921|[Minimum add to make parentheses valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[Solution](./leetcode/921_minimum_add_to_make_parentheses_valid.py)|Medium|
 |938|[Range sum of BST](https://leetcode.com/problems/range-sum-of-bst)|[Solution](./leetcode/938_range_sum_of_bst.py)|Easy|
 |951|[Flip equivalent binary trees](https://leetcode.com/problems/flip-equivalent-binary-trees)|[Solution](./leetcode/951_flip_equivalent_binary_trees.py)|Medium|
+|958|[Check completeness of a binary tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)|[Solution](./leetcode/958_check_completeness_of_a_binary_tree.py)|Medium|
 |965|[Univalued binary tree](https://leetcode.com/problems/univalued-binary-tree)|[Solution](./leetcode/965_univalued_binary_tree.py)|Easy|
 |973|[K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin)|[Solution](./leetcode/973_k_closest_points_to_origin.py)|Medium|
 |988|[Smallest string starting from leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)|[Solution](./leetcode/988_smallest_string_starting_from_leaf.py)|Medium|
