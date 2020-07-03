@@ -108,3 +108,4 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1342|[Number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](./leetcode/1342_number_of_steps_to_reduce_number_to_zero.py)|Easy|
 |1436|[Destination city](https://leetcode.com/problems/destination-city/)|[Solution](./leetcode/1436_destination_city.py)|Easy|
 |1480|[Running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](./leetcode/1480_running_sum_of_1d_array.py)|Easy|
+|1496|[Path crossing](https://leetcode.com/problems/path-crossing/)|[Solution](./leetcode/1496_path_crossing.py)|Easy|
