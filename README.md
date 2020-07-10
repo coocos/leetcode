@@ -111,6 +111,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1342|[Number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](./leetcode/1342_number_of_steps_to_reduce_number_to_zero.py)|Easy|
 |1436|[Destination city](https://leetcode.com/problems/destination-city/)|[Solution](./leetcode/1436_destination_city.py)|Easy|
 |1417|[Reformat the string](https://leetcode.com/problems/reformat-the-string/)|[Solution](./leetcode/1417_reformat_the_string.py)|Easy|
+|1422|[Maximum score after splitting a string](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[Solution](./leetcode/1422_maximum_score_after_splitting_a_string.py)|Easy|
 |1448|[Count good nodes in binary tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Solution](./leetcode/1448_count_good_nodes_in_binary_tree.py)|Medium|
 |1480|[Running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](./leetcode/1480_running_sum_of_1d_array.py)|Easy|
 |1496|[Path crossing](https://leetcode.com/problems/path-crossing/)|[Solution](./leetcode/1496_path_crossing.py)|Easy|
