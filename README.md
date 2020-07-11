@@ -90,6 +90,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |973|[K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin)|[Solution](./leetcode/973_k_closest_points_to_origin.py)|Medium|
 |988|[Smallest string starting from leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)|[Solution](./leetcode/988_smallest_string_starting_from_leaf.py)|Medium|
 |993|[Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree)|[Solution](./leetcode/993_cousins_in_binary_tree.py)|Easy|
+|1020|[Number of enclaves](https://leetcode.com/problems/number-of-enclaves/)|[Solution](./leetcode/1020_number_of_enclaves.py)|Medium|
 |1021|[Remove outermost parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|[Solution](./leetcode/1021_remove_outermost_parentheses.py)|Easy|
 |1022|[Sum of root to leaf binary numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|[Solution](./leetcode/1022_sum_of_root_to_leaf_binary_numbers.py)|Easy|
 |1038|[Binary search tree to greater sum tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[Solution](./leetcode/1038_binary_search_tree_to_greater_sum_tree.py)|Medium|
