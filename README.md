@@ -78,6 +78,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |802|[Find eventual safe states](https://leetcode.com/problems/find-eventual-safe-states)|[Solution](./leetcode/802_find_eventual_safe_states.py)|Medium|
 |814|[Binary tree pruning](https://leetcode.com/problems/binary-tree-pruning)|[Solution](./leetcode/814_binary_tree_pruning.py)|Medium|
 |856|[Score of parentheses](https://leetcode.com/problems/score-of-parentheses)|[Solution](./leetcode/856_score_of_parentheses.py)|Medium|
+|863|[All nodes distance K in binary tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Solution](./leetcode/863_all_nodes_distance_k_in_binary_tree.py)|Medium|
 |872|[Leaf-similar trees](https://leetcode.com/problems/leaf-similar-trees)|[Solution](./leetcode/872_leaf_similar_trees.py)|Easy|
 |876|[Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list)|[Solution](./leetcode/876_middle_of_the_linked_list.py)|Easy|
 |884|[Uncommon words from two sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Solution](./leetcode/884_uncommon_words_from_two_sentences.py)|Easy|
