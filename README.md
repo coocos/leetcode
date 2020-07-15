@@ -53,6 +53,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |404|[Sum of left leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Solution](./leetcode/404_sum_of_left_leaves.py)|Easy|
 |409|[Longest palindrome](https://leetcode.com/problems/longest-palindrome)|[Solution](./leetcode/409_longest_palindrome.py)|Easy|
 |429|[N-ary tree level order traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|[Solution](./leetcode/429_n_ary_tree_level_order_traversal.py)|Easy|
+|461|[Hamming distance](https://leetcode.com/problems/hamming-distance/)|[Solution](./leetcode/461_hamming_distance.py)|Easy|
 |463|[Island perimeter](https://leetcode.com/problems/island-perimeter)|[Solution](./leetcode/463_island_perimeter.py)|Easy|
 |478|[Generate random point in a circle](https://leetcode.com/problems/generate-random-point-in-a-circle)|[Solution](./leetcode/478_generate_random_point_in_a_circle.py)|Medium|
 |508|[Most frequent subtree sum](https://leetcode.com/problems/most-frequent-subtree-sum)|[Solution](./leetcode/508_most_frequent_subtree_sum.py)|Medium|
