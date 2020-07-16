@@ -109,6 +109,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1254|[Number of closed islands](https://leetcode.com/problems/number-of-closed-islands/)|[Solution](./leetcode/1254_number_of_closed_islands.py)|Medium|
 |1261|[Find elements in a contaminated binary tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree.py)|[Solution](./leetcode/1261_find_elements_in_a_contaminated_binary_tree.py)|Medium|
 |1302|[Deepest leaves sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Solution](./leetcode/1302_deepest_leaves_sum.py)|Medium|
+|1305|[All elements in two binary search trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](./leetcode/1305_all_elements_in_two_binary_search_trees.py)|Medium|
 |1306|[Jump game III](https://leetcode.com/problems/jump-game-iii/)|[Solution](./leetcode/1306_jump_game_iii.py)|Medium|
 |1313|[Decompress run-length encoded list](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Solution](./leetcode/1313_decompress_run_length_encoded_list.py)|Easy|
 |1315|[Sum of nodes with even-valued grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Solution](./leetcode/1315_sum_of_nodes_with_even_valued_grandparent.py)|Medium|
