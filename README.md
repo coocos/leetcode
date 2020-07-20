@@ -39,6 +39,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |199|[Binary tree right side view](https://leetcode.com/problems/binary-tree-right-side-view)|[Solution](./leetcode/199_binary_tree_right_side_view.py)|Medium|
 |200|[Number of islands](https://leetcode.com/problems/number-of-islands)|[Solution](./leetcode/200_number_of_islands.py)|Medium|
 |203|[Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements)|[Solution](./leetcode/203_remove_linked_list_elements.py)|Easy|
+|207|[Course schedule](https://leetcode.com/problems/course-schedule/)|[Solution](./leetcode/207_course_schedule.py)|Medium|
 |208|[Implement trie (prefix tree)](https://leetcode.com/problems/implement-trie-prefix-tree)|[Solution](./leetcode/208_implement_trie_prefix_tree.py)|Medium|
 |217|[Contains duplicate](https://leetcode.com/problems/contains-duplicate)|[Solution](./leetcode/217_contains_duplicate.py)|Easy|
 |226|[Invert binary tree](https://leetcode.com/problems/invert-binary-tree)|[Solution](./leetcode/226_invert_binary_tree.py)|Easy|
