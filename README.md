@@ -116,6 +116,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1315|[Sum of nodes with even-valued grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Solution](./leetcode/1315_sum_of_nodes_with_even_valued_grandparent.py)|Medium|
 |1325|[Delete leaves with a given value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Solution](./leetcode/1325_delete_leaves_with_a_given_value.py)|Medium|
 |1342|[Number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](./leetcode/1342_number_of_steps_to_reduce_number_to_zero.py)|Easy|
+|1391|[Check if there is a valid path in a grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[Solution](./leetcode/1391_check_if_there_is_a_valid_path_in_a_grid.py)|Medium|
 |1436|[Destination city](https://leetcode.com/problems/destination-city/)|[Solution](./leetcode/1436_destination_city.py)|Easy|
 |1417|[Reformat the string](https://leetcode.com/problems/reformat-the-string/)|[Solution](./leetcode/1417_reformat_the_string.py)|Easy|
 |1422|[Maximum score after splitting a string](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[Solution](./leetcode/1422_maximum_score_after_splitting_a_string.py)|Easy|
