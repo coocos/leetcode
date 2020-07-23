@@ -18,6 +18,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |62|[Unique paths](https://leetcode.com/problems/unique-paths)|[Solution](./leetcode/62_unique_paths.py)|Medium|
 |63|[Unique paths II](https://leetcode.com/problems/unique-paths-ii)|[Solution](./leetcode/63_unique_paths_ii.py)|Medium|
 |64|[Minimum path sum](https://leetcode.com/problems/minimum-path-sum)|[Solution](./leetcode/64_minimum_path_sum.py)|Medium|
+|68|[Text justification](https://leetcode.com/problems/text-justification/)|[Solution](./leetcode/68_text_justification.py)|Hard|
 |70|[Climbing stairs](https://leetcode.com/problems/climbing-stairs)|[Solution](./leetcode/70_climbing_stairs.py)|Easy|
 |79|[Word search](https://leetcode.com/problems/word-search)|[Solution](./leetcode/79_word_search.py)|Medium|
 |98|[Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree)|[Solution](./leetcode/98_validate_binary_search_tree.py)|Medium|
