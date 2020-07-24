@@ -21,6 +21,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |68|[Text justification](https://leetcode.com/problems/text-justification/)|[Solution](./leetcode/68_text_justification.py)|Hard|
 |70|[Climbing stairs](https://leetcode.com/problems/climbing-stairs)|[Solution](./leetcode/70_climbing_stairs.py)|Easy|
 |79|[Word search](https://leetcode.com/problems/word-search)|[Solution](./leetcode/79_word_search.py)|Medium|
+|93|[Restore IP addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Solution](./leetcode/93_restore_ip_addresses.py)|Medium|
 |98|[Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree)|[Solution](./leetcode/98_validate_binary_search_tree.py)|Medium|
 |100|[Same tree](https://leetcode.com/problems/same-tree)|[Solution](./leetcode/100_same_tree.py)|Easy|
 |101|[Symmetric tree](https://leetcode.com/problems/symmetric-tree)|[Solution](./leetcode/101_symmetric_tree.py)|Easy|
