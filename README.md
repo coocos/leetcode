@@ -124,6 +124,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1422|[Maximum score after splitting a string](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[Solution](./leetcode/1422_maximum_score_after_splitting_a_string.py)|Easy|
 |1448|[Count good nodes in binary tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Solution](./leetcode/1448_count_good_nodes_in_binary_tree.py)|Medium|
 |1456|[Maximum number of vowels in a substring...](https://leetcode.com/problems/1456-maximum-number-of-vowels-in-a-substring-of-given-length/)|[Solution](./leetcode/1456_maximum_number_of_vowels_in_a_substring_of_given_length.py)|Medium|
+|1470|[Shuffle the array](https://leetcode.com/problems/shuffle-the-array/)|[Solution](./leetcode/1470_shuffle_the_array.py)|Easy|
 |1480|[Running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](./leetcode/1480_running_sum_of_1d_array.py)|Easy|
 |1496|[Path crossing](https://leetcode.com/problems/path-crossing/)|[Solution](./leetcode/1496_path_crossing.py)|Easy|
 |1518|[Water bottles](https://leetcode.com/problems/water-bottles/)|[Solution](./leetcode/1518_water_bottles.py)|Easy|
