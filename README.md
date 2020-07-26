@@ -111,6 +111,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1219|[Path with maximum gold](https://leetcode.com/problems/path-with-maximum-gold)|[Solution](./leetcode/1219_path_with_maximum_gold.py)|Medium|
 |1254|[Number of closed islands](https://leetcode.com/problems/number-of-closed-islands/)|[Solution](./leetcode/1254_number_of_closed_islands.py)|Medium|
 |1261|[Find elements in a contaminated binary tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree.py)|[Solution](./leetcode/1261_find_elements_in_a_contaminated_binary_tree.py)|Medium|
+|1290|[Convert binary number in a linked list to integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)|[Solution](./leetcode/1290_convert_binary_number_in_a_linked_list_to_integer.py)|Easy|
 |1302|[Deepest leaves sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Solution](./leetcode/1302_deepest_leaves_sum.py)|Medium|
 |1305|[All elements in two binary search trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](./leetcode/1305_all_elements_in_two_binary_search_trees.py)|Medium|
 |1306|[Jump game III](https://leetcode.com/problems/jump-game-iii/)|[Solution](./leetcode/1306_jump_game_iii.py)|Medium|
