@@ -129,3 +129,4 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1480|[Running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](./leetcode/1480_running_sum_of_1d_array.py)|Easy|
 |1496|[Path crossing](https://leetcode.com/problems/path-crossing/)|[Solution](./leetcode/1496_path_crossing.py)|Easy|
 |1518|[Water bottles](https://leetcode.com/problems/water-bottles/)|[Solution](./leetcode/1518_water_bottles.py)|Easy|
+|1528|[Shuffle string](https://leetcode.com/problems/shuffle-string/)|[Solution](./leetcode/1528_shuffle_string.py)|Easy|
