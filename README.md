@@ -56,6 +56,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |404|[Sum of left leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Solution](./leetcode/404_sum_of_left_leaves.py)|Easy|
 |409|[Longest palindrome](https://leetcode.com/problems/longest-palindrome)|[Solution](./leetcode/409_longest_palindrome.py)|Easy|
 |429|[N-ary tree level order traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|[Solution](./leetcode/429_n_ary_tree_level_order_traversal.py)|Easy|
+|451|[Sort characters by frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](./leetcode/451_sort_characters_by_frequency.py)|Medium|
 |461|[Hamming distance](https://leetcode.com/problems/hamming-distance/)|[Solution](./leetcode/461_hamming_distance.py)|Easy|
 |463|[Island perimeter](https://leetcode.com/problems/island-perimeter)|[Solution](./leetcode/463_island_perimeter.py)|Easy|
 |478|[Generate random point in a circle](https://leetcode.com/problems/generate-random-point-in-a-circle)|[Solution](./leetcode/478_generate_random_point_in_a_circle.py)|Medium|
@@ -119,6 +120,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1315|[Sum of nodes with even-valued grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Solution](./leetcode/1315_sum_of_nodes_with_even_valued_grandparent.py)|Medium|
 |1325|[Delete leaves with a given value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Solution](./leetcode/1325_delete_leaves_with_a_given_value.py)|Medium|
 |1342|[Number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](./leetcode/1342_number_of_steps_to_reduce_number_to_zero.py)|Easy|
+|1365|[How many numbers are smaller than the current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Solution](./leetcode/1365_how_many_numbers_are_smaller_than_the_current_number.py)|Easy|
 |1391|[Check if there is a valid path in a grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[Solution](./leetcode/1391_check_if_there_is_a_valid_path_in_a_grid.py)|Medium|
 |1436|[Destination city](https://leetcode.com/problems/destination-city/)|[Solution](./leetcode/1436_destination_city.py)|Easy|
 |1417|[Reformat the string](https://leetcode.com/problems/reformat-the-string/)|[Solution](./leetcode/1417_reformat_the_string.py)|Easy|
