@@ -1,3 +1,5 @@
+![CI](https://github.com/coocos/leetcode/workflows/CI/badge.svg)
+
 Python solutions to [leetcode](https://leetcode.com) problems. Neither the fastest nor the cleverest solutions around.
 
 ### Solved problems 
