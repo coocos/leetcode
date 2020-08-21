@@ -85,6 +85,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |797|[All paths from source to target](https://leetcode.com/problems/all-paths-from-source-to-target)|[Solution](./leetcode/797_all_paths_from_source_to_target.py)|Medium|
 |802|[Find eventual safe states](https://leetcode.com/problems/find-eventual-safe-states)|[Solution](./leetcode/802_find_eventual_safe_states.py)|Medium|
 |814|[Binary tree pruning](https://leetcode.com/problems/binary-tree-pruning)|[Solution](./leetcode/814_binary_tree_pruning.py)|Medium|
+|846|[Hand of straights](https://leetcode.com/problems/hand-of-straights)|[Solution](./leetcode/846_hand_of_straights.py)|Medium|
 |856|[Score of parentheses](https://leetcode.com/problems/score-of-parentheses)|[Solution](./leetcode/856_score_of_parentheses.py)|Medium|
 |863|[All nodes distance K in binary tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Solution](./leetcode/863_all_nodes_distance_k_in_binary_tree.py)|Medium|
 |872|[Leaf-similar trees](https://leetcode.com/problems/leaf-similar-trees)|[Solution](./leetcode/872_leaf_similar_trees.py)|Easy|
