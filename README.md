@@ -58,6 +58,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |394|[Decode string](https://leetcode.com/problems/decode-string)|[Solution](./leetcode/394_decode_string.py)|Medium|
 |404|[Sum of left leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Solution](./leetcode/404_sum_of_left_leaves.py)|Easy|
 |409|[Longest palindrome](https://leetcode.com/problems/longest-palindrome)|[Solution](./leetcode/409_longest_palindrome.py)|Easy|
+|419|[Battleships in a board](https://leetcode.com/problems/battleships-in-a-board)|[Solution](./leetcode/419_battleships_in_a_board.py)|Medium|
 |429|[N-ary tree level order traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|[Solution](./leetcode/429_n_ary_tree_level_order_traversal.py)|Easy|
 |451|[Sort characters by frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](./leetcode/451_sort_characters_by_frequency.py)|Medium|
 |461|[Hamming distance](https://leetcode.com/problems/hamming-distance/)|[Solution](./leetcode/461_hamming_distance.py)|Easy|
