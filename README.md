@@ -96,6 +96,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |884|[Uncommon words from two sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Solution](./leetcode/884_uncommon_words_from_two_sentences.py)|Easy|
 |917|[Reverse only letters](https://leetcode.com/problems/reverse-only-letters/)|[Solution](./leetcode/917_reverse_only_letters.py)|Easy|
 |921|[Minimum add to make parentheses valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[Solution](./leetcode/921_minimum_add_to_make_parentheses_valid.py)|Medium|
+|931|[Minimum falling path sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Solution](./leetcode/931_minimum_falling_path_sum.py)|Medium|
 |938|[Range sum of BST](https://leetcode.com/problems/range-sum-of-bst)|[Solution](./leetcode/938_range_sum_of_bst.py)|Easy|
 |951|[Flip equivalent binary trees](https://leetcode.com/problems/flip-equivalent-binary-trees)|[Solution](./leetcode/951_flip_equivalent_binary_trees.py)|Medium|
 |958|[Check completeness of a binary tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)|[Solution](./leetcode/958_check_completeness_of_a_binary_tree.py)|Medium|
