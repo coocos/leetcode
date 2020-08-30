@@ -139,6 +139,5 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1496|[Path crossing](https://leetcode.com/problems/path-crossing/)|[Solution](./leetcode/1496_path_crossing.py)|Easy|
 |1518|[Water bottles](https://leetcode.com/problems/water-bottles/)|[Solution](./leetcode/1518_water_bottles.py)|Easy|
 |1528|[Shuffle string](https://leetcode.com/problems/shuffle-string/)|[Solution](./leetcode/1528_shuffle_string.py)|Easy|
-|1557|[Minimum number of vertices to reach all nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Solution](./leetcode/1557_minimum_number_of_vertices_to_reach_all_nodes.py)
-
-|1559|[Detect cycles in 2D grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/)|[Solution](./leetcode/1559_detect_cycles_in_2d_grid.py)
+|1557|[Minimum number of vertices to reach all nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Solution](./leetcode/1557_minimum_number_of_vertices_to_reach_all_nodes.py)|Medium|
+|1559|[Detect cycles in 2D grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/)|[Solution](./leetcode/1559_detect_cycles_in_2d_grid.py)|Hard|
