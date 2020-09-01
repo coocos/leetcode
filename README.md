@@ -70,6 +70,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |538|[Convert BST to greater tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|[Solution](./leetcode/538_convert_bst_to_greater_tree.py)|Easy|
 |547|[Friend circles](https://leetcode.com/problems/friend-circles/)|[Solution](./leetcode/547_friend_circles.py)|Medium|
 |559|[Maximum depth of n-ary tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|[Solution](./leetcode/559_maximum_depth_of_n_ary_tree.py)|Easy|
+|567|[Permutation in string](https://leetcode.com/problems/permutation-in-string/)|[Solution](./leetcode/567_permutation_in_string.py)|Medium|
 |590|[N-ary tree postorder traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|[Solution](./leetcode/590_n_ary_tree_postorder_traversal.py)|Easy|
 |617|[Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees)|[Solution](./leetcode/617_merge_two_binary_trees.py)|Easy|
 |623|[Add one row to tree](https://leetcode.com/problems/add-one-row-to-tree)|[Solution](./leetcode/623_add_one_row_to_tree.py)|Medium|
