@@ -106,6 +106,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |958|[Check completeness of a binary tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)|[Solution](./leetcode/958_check_completeness_of_a_binary_tree.py)|Medium|
 |965|[Univalued binary tree](https://leetcode.com/problems/univalued-binary-tree)|[Solution](./leetcode/965_univalued_binary_tree.py)|Easy|
 |973|[K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin)|[Solution](./leetcode/973_k_closest_points_to_origin.py)|Medium|
+|980|[Unique paths III](https://leetcode.com/problems/unique-paths-iii)|[Solution](./leetcode/980_unique_paths_iii.py)|Hard|
 |988|[Smallest string starting from leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)|[Solution](./leetcode/988_smallest_string_starting_from_leaf.py)|Medium|
 |993|[Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree)|[Solution](./leetcode/993_cousins_in_binary_tree.py)|Easy|
 |1020|[Number of enclaves](https://leetcode.com/problems/number-of-enclaves/)|[Solution](./leetcode/1020_number_of_enclaves.py)|Medium|
