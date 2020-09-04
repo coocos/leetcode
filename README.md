@@ -84,6 +84,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |704|[Binary search](https://leetcode.com/problems/binary-search)|[Solution](./leetcode/704_binary_search.py)|Easy|
 |729|[My calendar I](https://leetcode.com/problems/my-calendar-i)|[Solution](./leetcode/729_my_calendar_i.py)|Medium|
 |733|[Flood fill](https://leetcode.com/problems/flood-fill)|[Solution](./leetcode/733_flood_fill.py)|Easy|
+|735|[Asteroid collision](https://leetcode.com/problems/asteroid-collision)|[Solution](./leetcode/735_asteroid_collision.py)|Medium|
 |743|[Network delay time](https://leetcode.com/problems/network-delay-time)|[Solution](./leetcode/743_network_delay_time.py)|Medium|
 |746|[Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Solution](./leetcode/746_min_cost_climbing_stairs.py)|Easy|
 |771|[Jewels and stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](./leetcode/771_jewels_and_stones.py)|Easy|
