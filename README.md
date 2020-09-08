@@ -79,6 +79,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |637|[Average of levels in binary tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|[Solution](./leetcode/637_average_of_levels_in_binary_tree.py)|Easy|
 |654|[Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree)|[Solution](./leetcode/654_maximum_binary_tree.py)|Medium|
 |657|[Robot return to origin](https://leetcode.com/problems/robot-return-to-origin)|[Solution](./leetcode/657_robot_return_to_origin.py)|Easy|
+|684|[Redundant connection](https://leetcode.com/problems/redundant-connection)|[Solution](./leetcode/684_redundant_connection.py)|Medium|
 |695|[Max area of island](https://leetcode.com/problems/max-area-of-island)|[Solution](./leetcode/695_max_area_of_island.py)|Medium|
 |700|[Search in a binary search tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Solution](./leetcode/700_search_in_a_binary_search_tree)|Easy|
 |704|[Binary search](https://leetcode.com/problems/binary-search)|[Solution](./leetcode/704_binary_search.py)|Easy|
