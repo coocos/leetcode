@@ -89,6 +89,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |743|[Network delay time](https://leetcode.com/problems/network-delay-time)|[Solution](./leetcode/743_network_delay_time.py)|Medium|
 |746|[Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Solution](./leetcode/746_min_cost_climbing_stairs.py)|Easy|
 |771|[Jewels and stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](./leetcode/771_jewels_and_stones.py)|Easy|
+|778|[Swim in rising water](https://leetcode.com/problems/swim-in-rising-water)|[Solution](./leetcode/778_swim_in_rising_water.py)|Hard|
 |784|[Letter case permutation](https://leetcode.com/problems/letter-case-permutation)|[Solution](./leetcode/784_letter_case_permutation.py)|Easy|
 |797|[All paths from source to target](https://leetcode.com/problems/all-paths-from-source-to-target)|[Solution](./leetcode/797_all_paths_from_source_to_target.py)|Medium|
 |802|[Find eventual safe states](https://leetcode.com/problems/find-eventual-safe-states)|[Solution](./leetcode/802_find_eventual_safe_states.py)|Medium|
