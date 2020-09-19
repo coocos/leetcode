@@ -11,6 +11,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |20|[Valid parentheses](https://leetcode.com/problems/valid-parentheses)|[Solution](./leetcode/20_valid_parentheses.py)|Easy|
 |21|[Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Solution](./leetcode/21_merge_two_sorted_lists.py)|Easy|
 |22|[Generate parentheses](https://leetcode.com/problems/generate-parentheses)|[Solution](./leetcode/22_generate_parentheses.py)|Medium|
+|23|[Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Solution](./leetcode/23_merge_k_sorted_lists.py)|Hard|
 |35|[Search insert position](https://leetcode.com/problems/search-insert-position)|[Solution](./leetcode/35_search_insert_position.py)|Easy|
 |37|[Sudoku solver](https://leetcode.com/problems/sudoku-solver)|[Solution](./leetcode/37_sudoku_solver.py)|Hard|
 |39|[Combination sum](https://leetcode.com/problems/combination-sum)|[Solution](./leetcode/39_combination_sum.py)|Medium|
