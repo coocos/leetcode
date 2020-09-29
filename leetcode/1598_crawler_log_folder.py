@@ -19,8 +19,9 @@ class Solution:
         for operation in logs:
             if operation == "./":
                 pass
-            elif operation == "../" and stack:
-                stack.pop()
+            elif operation == "../":
+                if stack:
+                    stack.pop()
             else:
                 stack.append(operation)
 
