@@ -131,6 +131,7 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1189|[Maximum number of balloons](https://leetcode.com/problems/maximum-number-of-balloons)|[Solution](./leetcode/1189_maximum_number_of_balloons.py)|Easy|
 |1207|[Unique number of occurrences](https://leetcode.com/problems/unique-number-of-occurrences)|[Solution](./leetcode/1207_unique_number_of_occurrences.py)|Easy|
 |1219|[Path with maximum gold](https://leetcode.com/problems/path-with-maximum-gold)|[Solution](./leetcode/1219_path_with_maximum_gold.py)|Medium|
+|1220|[Count vowels permutation](https://leetcode.com/problems/count-vowels-permutation/)|[Solution](./leetcode/1220_count_vowels_permutation.py)|Hard|
 |1254|[Number of closed islands](https://leetcode.com/problems/number-of-closed-islands/)|[Solution](./leetcode/1254_number_of_closed_islands.py)|Medium|
 |1261|[Find elements in a contaminated binary tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree.py)|[Solution](./leetcode/1261_find_elements_in_a_contaminated_binary_tree.py)|Medium|
 |1290|[Convert binary number in a linked list to integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)|[Solution](./leetcode/1290_convert_binary_number_in_a_linked_list_to_integer.py)|Easy|
