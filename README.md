@@ -158,3 +158,4 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1559|[Detect cycles in 2D grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/)|[Solution](./leetcode/1559_detect_cycles_in_2d_grid.py)|Hard|
 |1592|[Rearrange spaces between words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[Solution](./leetcode/1592_rearrange_spaces_between_words.py)|Easy|
 |1598|[Crawler log folder](https://leetcode.com/problems/crawler-log-folder/)|[Solution](./leetcode/1598_crawler_log_folder.py)|Easy|
+|1609|[Even odd tree](https://leetcode.com/problems/even-odd-tree/)|[Solution](./leetcode/1609_even_odd_tree.py)|Medium|
