@@ -159,3 +159,4 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1592|[Rearrange spaces between words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[Solution](./leetcode/1592_rearrange_spaces_between_words.py)|Easy|
 |1598|[Crawler log folder](https://leetcode.com/problems/crawler-log-folder/)|[Solution](./leetcode/1598_crawler_log_folder.py)|Easy|
 |1609|[Even odd tree](https://leetcode.com/problems/even-odd-tree/)|[Solution](./leetcode/1609_even_odd_tree.py)|Medium|
+|1614|[Maximum nesting depth of the parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Solution](./leetcode/1614_maximum_nesting_depth_of_the_parentheses.py)|Easy|
