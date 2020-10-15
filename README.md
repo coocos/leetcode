@@ -160,3 +160,4 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1598|[Crawler log folder](https://leetcode.com/problems/crawler-log-folder/)|[Solution](./leetcode/1598_crawler_log_folder.py)|Easy|
 |1609|[Even odd tree](https://leetcode.com/problems/even-odd-tree/)|[Solution](./leetcode/1609_even_odd_tree.py)|Medium|
 |1614|[Maximum nesting depth of the parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Solution](./leetcode/1614_maximum_nesting_depth_of_the_parentheses.py)|Easy|
+|1615|[Maximal network rank](https://leetcode.com/problems/maximal-network-rank/)|[Solution](./leetcode/1615_maximal_network_rank.py)|Medium|
