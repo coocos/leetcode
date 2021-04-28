@@ -162,3 +162,4 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1614|[Maximum nesting depth of the parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Solution](./leetcode/1614_maximum_nesting_depth_of_the_parentheses.py)|Easy|
 |1615|[Maximal network rank](https://leetcode.com/problems/maximal-network-rank/)|[Solution](./leetcode/1615_maximal_network_rank.py)|Medium|
 |1625|[Lexicographically smallest string...](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/)|[Solution](./leetcode/1625_lexicographically_smallest_string_after_applying_operations.py)|Medium|
+|1807|[Evaluate the bracket pairs of a string](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](./leetcode/1807_evaluate_the_bracket_pairs_of_a_string.py)|Medium|
