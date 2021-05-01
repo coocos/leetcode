@@ -163,4 +163,5 @@ Python solutions to [leetcode](https://leetcode.com) problems. Neither the faste
 |1615|[Maximal network rank](https://leetcode.com/problems/maximal-network-rank/)|[Solution](./leetcode/1615_maximal_network_rank.py)|Medium|
 |1625|[Lexicographically smallest string...](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/)|[Solution](./leetcode/1625_lexicographically_smallest_string_after_applying_operations.py)|Medium|
 |1807|[Evaluate the bracket pairs of a string](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](./leetcode/1807_evaluate_the_bracket_pairs_of_a_string.py)|Medium|
+|1817|[Finding the users active minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)|[Solution](./leetcode/1817_finding_the_users_active_minutes.py)|Medium|
 |1823|[Find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Solution](./leetcode/1823_find_the_winner_of_the_circular_game.py)|Medium|
